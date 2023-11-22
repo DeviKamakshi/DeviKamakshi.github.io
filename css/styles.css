@@ -10974,9 +10974,9 @@ section.resume-section .resume-section-content {
  /* highlight col-* */
 .row [class*='col-'] {
   text-align: center;
-  background-color: whitesmoke;
   border-radius: 1px;
   background-clip: content-box;
   min-height: 230px;
+  margin-bottom: 15px;
   margin-bottom: 15px;
 }
