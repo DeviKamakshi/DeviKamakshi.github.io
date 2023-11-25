@@ -10979,4 +10979,11 @@ section.resume-section .resume-section-content {
   min-height: 18rem;
   margin-bottom: 15px;
   margin-left: 15px;
+  display: flex;
+  justify-content: center;
+  cursor: pointer;
+}
+
+.row [class*='col-']:hover {
+  background-color:ghostwhite;
 }
